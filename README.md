@@ -1,7 +1,7 @@
 # WTNet
 ## Description of files
 + dataset
-  ++ wt_decreate.py: preprocessing of ECG data
+  + wt_decreate.py: preprocessing of ECG data
 + model: model components
 + main.py: the mainly running script
 
